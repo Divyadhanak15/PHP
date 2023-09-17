@@ -1,0 +1,9 @@
+/* Write a PHP script to swap the values of two variables $x and $y using a temporary variable. Display the swapped values using the echo statement. */
+<?php
+
+$x = 5;
+$y = $x;
+
+echo "$y";
+
+?>
